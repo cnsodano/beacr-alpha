@@ -3,7 +3,6 @@
 ^beacr\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
-^.R_libs$
 ^.linenotes$
 ^_todo.md$
 ^_pkgdown\.yml$

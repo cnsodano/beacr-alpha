@@ -61,21 +61,21 @@ directly from GitHub using `pak`(recommended), `remotes`, or
 
 ``` r
 # install.packages("pak")
-pak::pak("cnsodano/beacr-pre-alpha")
+pak::pak("cnsodano/beacr-alpha")
 ```
 
 #### remotes
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("cnsodano/beacr-pre-alpha")
+remotes::install_github("cnsodano/beacr-alpha")
 ```
 
 #### devtools
 
 ``` r
 # install.packages("devtools")
-devtools::install_github('cnsodano/beacr-pre-alpha')
+devtools::install_github('cnsodano/beacr-alpha')
 ```
 
 ## Usage
